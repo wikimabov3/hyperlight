@@ -41,3 +41,4 @@ r'foo\' \U1234'
 R'foo\' \U1234'
 b'cfg'
 B"axc"
+A C-program for MT19937, with initialization improved
